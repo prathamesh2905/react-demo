@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-let a = 10;
 function App() {
   return (
    <div>
